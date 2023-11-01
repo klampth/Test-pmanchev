@@ -1,0 +1,5 @@
+libnvidia-ml-dev		install
+libnvidia-compute-495		install
+libnvidia-compute-510		install
+libnvidia-compute-525		install
+nvidia-common		install

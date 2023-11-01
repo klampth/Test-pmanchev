@@ -1,0 +1,17 @@
+libxfce4util-bin		install
+libxfce4util-dev		install
+libxfce4ui-common		install
+gir1.2-libxfce4util-1.0		install
+libxfce4ui-2-0		install
+libxfconf-0-3		install
+gstreamer1.0-rtsp		install
+xfconf		install
+gstreamer1.0-plugins-bad-apps		install
+v4l2-relayd		install
+gstreamer1.0-opencv		install
+libxfce4util7		install
+parole-dev		install
+parole		install
+libtagc0		install
+gstreamer1.0-plugins-rtp		install
+libxfce4util-common		install
