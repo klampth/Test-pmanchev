@@ -1,0 +1,46 @@
+extra/clutter-gst-debug 3.0.27-4
+    Detached debugging symbols for clutter-gst
+extra/gst-editing-services 1.22.6-1
+    Multimedia graph framework - editing services
+extra/gst-libav 1.22.6-1
+    Multimedia graph framework - libav plugin
+extra/gst-plugin-gtk 1.22.6-1
+    Multimedia graph framework - gtk plugin
+extra/gst-plugin-libcamera 0.1.0-2
+    Multimedia graph framework - libcamera plugin
+extra/gst-plugin-opencv 1.22.6-1
+    Multimedia graph framework - opencv plugin
+extra/gst-plugin-pipewire 1:0.3.80-1
+    Multimedia graph framework - pipewire plugin
+extra/gst-plugin-qml6 1.22.6-1
+    Multimedia graph framework - qml6 plugin
+extra/gst-plugin-qmlgl 1.22.6-1
+    Multimedia graph framework - qmlgl plugin
+extra/gst-plugin-va 1.22.6-1
+    Multimedia graph framework - va plugin
+extra/gst-plugin-wpe 1.22.6-1
+    Multimedia graph framework - wpe plugin
+extra/gst-plugins-bad 1.22.6-1
+    Multimedia graph framework - bad plugins
+extra/gst-plugins-bad-libs 1.22.6-1
+    Multimedia graph framework - bad
+extra/gst-plugins-base 1.22.6-1
+    Multimedia graph framework - base plugins
+extra/gst-plugins-base-libs 1.22.6-1
+    Multimedia graph framework - base
+extra/gst-plugins-espeak 0.5.0-4
+    Use espeak as a sound source for gstreamer
+extra/gst-plugins-good 1.22.6-1
+    Multimedia graph framework - good plugins
+extra/gst-plugins-ugly 1.22.6-1
+    Multimedia graph framework - ugly plugins
+extra/gst-python 1.22.6-1
+    Multimedia graph framework - python plugin
+extra/gst-rtsp-server 1.22.6-1
+    Multimedia graph framework - rtsp server
+extra/gst-transcoder 1.16.0-2
+    GStreamer Transcoding API library
+extra/gupnp-dlna 0.12.0-2
+    Library to ease DLNA-related bits for applications using gupnp
+extra/rygel 1:0.42.4-1 (gnome)
+    UPnP AV MediaServer and MediaRenderer
