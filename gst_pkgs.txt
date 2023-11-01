@@ -1,0 +1,36 @@
+extra/clutter-gst 3.0.27-4
+    GStreamer bindings for clutter
+extra/glide 0.5.11-2
+    Simple and minimalistic media player based on GStreamer and GTK
+extra/gnome-video-effects 1:0.6.0-1
+    Collection of GStreamer effects for GNOME
+extra/gst-plugins-espeak 0.5.0-4
+    Use espeak as a sound source for gstreamer
+extra/gst-transcoder 1.16.0-2
+    GStreamer Transcoding API library
+extra/gstreamer 1.22.6-1
+    Multimedia graph framework - core
+extra/gstreamer-docs 1.22.6-1
+    Multimedia graph framework - documentation
+extra/gstreamer-vaapi 1.22.6-1
+    Multimedia graph framework - vaapi plugin
+extra/gstreamermm 1.10.0-2
+    C++ interface for GStreamer
+extra/gstreamermm-docs 1.10.0-2
+    C++ interface for GStreamer (documentation)
+extra/parole 4.18.0-1 (xfce4-goodies)
+    Modern media player based on the GStreamer framework
+extra/phonon-gstreamer-debug 4.10.0-4
+    Detached debugging symbols for phonon-gstreamer
+extra/phonon-qt5-gstreamer 4.10.0-4
+    Phonon GStreamer backend for Qt5
+extra/pitivi 2023.03-2
+    Editor for audio/video projects using the GStreamer framework
+extra/qt-gstreamer 1.2.0-4
+    Qt bindings for GStreamer
+extra/qt6-multimedia-gstreamer 6.5.3-1
+    Gstreamer backend for qt6-multimedia
+extra/totem 43.0-2 (gnome)
+    Movie player for the GNOME desktop based on GStreamer
+extra/transmageddon 1.5-7
+    Simple python application for transcoding video into formats supported by GStreamer
